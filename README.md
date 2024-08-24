@@ -4,7 +4,8 @@ Multi symbol relative strength index (RSI) in pine script V4
 <h3>Images:</h3>
 
 <h3>Code:</h3>
-'''
+
+````
 //@version=4
 study("RSI Multi Symbols")
 
@@ -96,4 +97,4 @@ plot(onersi,"ONE",color = color.rgb(255, 255, 255, 90))
 band1 = hline(70, "Upper Band", color=#C0C0C0)
 bandm = hline(50, "Middle Band", color=color.new(#C0C0C0, 50))
 band0 = hline(30, "Lower Band", color=#C0C0C0)
-'''
+````

@@ -2,6 +2,7 @@
 Multi symbol relative strength index (RSI) in pine script V4
 
 <h3>Images:</h3>
+![image](https://github.com/user-attachments/assets/12cfee86-a477-4ad0-afd4-57facb0fe3e7)
 
 <h3>Code:</h3>
 
